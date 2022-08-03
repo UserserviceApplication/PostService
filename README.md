@@ -5,7 +5,7 @@
 
 For building and running the application you need:
 
-- [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [Java 11](https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html)
 - [Maven 3](https://maven.apache.org)
 - [MySQL 5.7](https://dev.mysql.com/downloads/mysql/5.7.html)
 
